@@ -171,8 +171,10 @@
   },
   "active": "dcda28c1212ec0c4",
   "lastOpenFiles": [
-    "git_sync.py",
+    "git_push.py",
     "新建文本文档.txt",
+    "git_pull.py",
+    "git_sync.py",
     "如何使用git上传笔记.md",
     "README.md",
     "LICENSE"
