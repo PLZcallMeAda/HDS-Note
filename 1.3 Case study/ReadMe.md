@@ -33,8 +33,6 @@
 
 1. **设置工作目录**
     
-    r
-    
     ```r
     # 方法1：通过路径设置（替换为你的实际路径）
     setwd("C:/Users/你的用户名/Desktop/LifeExpectancy_Study")
