@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "如何使用git上传笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "如何使用git上传笔记 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "如何使用git上传笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "如何使用git上传笔记 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "如何使用git上传笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "如何使用git上传笔记 的大纲"
             }
           }
         ]
@@ -172,11 +172,20 @@
   "active": "dcda28c1212ec0c4",
   "lastOpenFiles": [
     "git_push.py",
-    "新建文本文档.txt",
     "git_pull.py",
-    "git_sync.py",
-    "如何使用git上传笔记.md",
-    "README.md",
-    "LICENSE"
+    "R note_副本/1.3 Case studt/ReadMe.md",
+    "R note_副本/词汇表：预期寿命数据集.md",
+    "R note_副本/1.3 Case studt",
+    "R note_副本",
+    "1.3 Case study_副本/data/Life Expectancy Data.csv",
+    "1.3 Case study_副本/data/CaseStudy_LifeExpectancy_Prompts-2.R",
+    "1.3 Case study_副本/data",
+    "1.3 Case study_副本/Life_Expectancy_Glossary.docx",
+    "1.3 Case study_副本/CaseStudy_LifeExpectancy_TasksDescription.docx",
+    "README_副本.md",
+    "LICENSE_副本",
+    "如何使用git上传笔记_副本.md",
+    "1.3 Case study_副本",
+    "如何使用git上传笔记.md"
   ]
 }
