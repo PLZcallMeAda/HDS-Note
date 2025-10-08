@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.3 Case study/ReadMe.md",
+                "file": "Statistics for HDS/往年案例分析/ReadMe.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "967c582fe90c0512",
@@ -186,24 +186,29 @@
   },
   "active": "8cb5a15817b99bc0",
   "lastOpenFiles": [
-    "1.3 Case study/Case Study Life Expectancy Data— Core Tasks.md",
-    "1.3 Case study/ReadMe.md",
+    "Statistics for HDS/Assessment_1/Assessment 1.md",
+    "Statistics for HDS/往年案例分析/ReadMe.md",
+    "Statistics for HDS/Assessment_1/往年案例分析/PRACTICE Assessment 1 solutions.pdf",
+    "Statistics for HDS/往年案例分析/PRACTICE data for assessment 1.csv",
+    "Statistics for HDS/往年案例分析/PRACTICE Asssessment 1.docx",
+    "Statistics for HDS/往年案例分析/PRACTICE Assessment 1 solutions.pdf",
+    "Statistics for HDS/往年案例分析",
+    "Statistics for HDS/Assessment_1/往年案例分析_副本2/PRACTICE data for assessment 1.csv",
+    "Statistics for HDS/Assessment_1/往年案例分析_副本2/PRACTICE Asssessment 1.docx",
+    "Statistics for HDS/Assessment_1/往年案例分析_副本2/PRACTICE Assessment 1 solutions.pdf",
+    "Statistics for HDS/Assessment_1/往年案例分析_副本2",
+    "Statistics for HDS/Assessment_1/往年案例分析_副本/PRACTICE data for assessment 1.csv",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/renv/help/figures/logo.svg",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/renv/NEWS.md",
+    "1.3 Case study/详细步骤.md",
+    "Python/test.md",
     "1.3 Case study/词汇表：预期寿命数据集.md",
+    "1.3 Case study/Case Study Life Expectancy Data— Core Tasks.md",
+    "如何使用git上传笔记.md",
     "README.md",
-    "git_push.py",
-    "git_pull.py",
     "R note_副本/1.3 Case studt/ReadMe.md",
     "R note_副本/词汇表：预期寿命数据集.md",
-    "R note_副本/1.3 Case studt",
-    "R note_副本",
-    "1.3 Case study_副本/data/Life Expectancy Data.csv",
-    "1.3 Case study_副本/data/CaseStudy_LifeExpectancy_Prompts-2.R",
-    "1.3 Case study_副本/data",
-    "1.3 Case study_副本/Life_Expectancy_Glossary.docx",
-    "1.3 Case study_副本/CaseStudy_LifeExpectancy_TasksDescription.docx",
     "README_副本.md",
-    "LICENSE_副本",
-    "如何使用git上传笔记_副本.md",
-    "如何使用git上传笔记.md"
+    "如何使用git上传笔记_副本.md"
   ]
 }
