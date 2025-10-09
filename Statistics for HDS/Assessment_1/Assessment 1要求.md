@@ -48,16 +48,18 @@ You are asked to produce a report summarising the data collected and to complete
 
 1. Please provide a summary of the data, with the aid of graphs and tables (5 marks)
     
-2. 借助图表和表格，对数据进行概况总结（5 分）
+2. ==借助图表和表格，对数据进行概况总结（5 分）==
+
+
     
 3. Another screening programme took place last year in a different region and they found 14% of individuals had diabetes and the average BMI and age of those attending clinics were 28kg/m² and 55 years, respectively.
     
-4. 去年在另一地区开展过一项筛查项目，结果显示 14% 的参与者患有糖尿病，参与诊所筛查人员的平均 BMI（体重指数）为 28 千克 / 平方米，平均年龄为 55 岁。
+4. ==去年在另一地区开展过一项筛查项目，结果显示 14% 的参与者患有糖尿病，参与诊所筛查人员的平均 BMI（体重指数）为 28 千克 / 平方米，平均年龄为 55 岁。==
     
 
-They also found a significant relationship between smoking and diabetes.
+==They also found a significant relationship between smoking and diabetes.==
 
-该项目还发现，吸烟与糖尿病之间存在显著关联。
+==该项目还发现，吸烟与糖尿病之间存在显著关联。==
 
 Investigate if your data support these results and provide possible explanations to your findings. (15 marks)
 
