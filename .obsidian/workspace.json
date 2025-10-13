@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8cb5a15817b99bc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics for HDS/Assessment_1/详细步骤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "详细步骤"
-            }
-          },
-          {
             "id": "67151d16197d1ed8",
             "type": "leaf",
             "state": {
@@ -34,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Assessment 1要求"
             }
+          },
+          {
+            "id": "e0f304dacec066b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics for HDS/Assessment_1/要求.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "要求"
+            }
+          },
+          {
+            "id": "1eec53007b964f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics for HDS/Assessment_1/详细步骤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "详细步骤"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,52 +198,52 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "dcda28c1212ec0c4",
+  "active": "1eec53007b964f31",
   "lastOpenFiles": [
-    "Introduction for HDS/Health data diagrams ， patient pathways and data flow diagrams.md",
-    "Introduction for HDS/Wound care referral_Patient pathway diagram.pdf",
-    "Introduction for HDS/ReadMe.md",
-    "Statistics for HDS/Assessment_1/详细步骤.md",
     "Statistics for HDS/Assessment_1/要求.md",
-    "R note/未命名.md",
     "Statistics for HDS/Assessment_1/Assessment 1要求.md",
-    "R note/数据框（data.frame）列表list和向量vector.md",
-    "Statistics for HDS/Assessment_1/assessment_1.R",
-    "1b1795c9-9e53-433a-97dd-ee6194f79ce4.png",
-    "dc8063f7-37f7-4045-957c-52c912c8e953.png",
-    "980e711b-d584-46f0-9066-834d9a9bd3b9.png",
-    "d794589e-d955-4b16-8522-fa62fc668bf8.png",
-    "bfc7ec67-ecc6-465b-9328-d43e3bb64ccd.png",
-    "a19d6eb9-fc9e-4428-a1b3-0652aa132fda.png",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/zoo/libs/zoo.so",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/zoo/include/zoo.h",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/zoo/html/R.css",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/zoo/html/00Index.html",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/zoo/doc/zoo.pdf",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/zoo/doc/zoo.Rnw",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/zoo/doc/zoo.R",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/zoo/doc/zoo-read.pdf",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/plyr/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/data.table/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/staging/1/plyr/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/staging/1/data.table/NEWS.md",
-    "Pasted image 20251009120231.png",
-    "Modelling/ReadMe.md",
-    "如何使用git上传笔记.md",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/tidyr/help/figures/logo.png",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/tidyr/help/figures/lifecycle-superseded.svg",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/tidyr/help/figures/lifecycle-stable.svg",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/tidyr/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/stringr/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/purrr/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/cpp11/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/staging/1/cpp11/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/staging/1/stringr/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/staging/1/purrr/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/withr/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/vctrs/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/utf8/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/tidyselect/NEWS.md",
-    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/tibble/NEWS.md"
+    "Statistics for HDS/Assessment_1/详细步骤.md",
+    "Statistics for HDS/Assessment_1/Rplot19.pdf",
+    "Statistics for HDS/Assessment_1/Rplot18.pdf",
+    "Statistics for HDS/Assessment_1/Rplot17.pdf",
+    "Statistics for HDS/Assessment_1/Rplot16.pdf",
+    "Statistics for HDS/Assessment_1/Rplot15.pdf",
+    "Statistics for HDS/Assessment_1/Rplot14.pdf",
+    "Statistics for HDS/Assessment_1/Rplot13.pdf",
+    "Statistics for HDS/Assessment_1/Rplot12.pdf",
+    "Statistics for HDS/Assessment_1/Rplot11.pdf",
+    "Statistics for HDS/Assessment_1/Rplot10.pdf",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/xml2/help/figures/lifecycle-superseded.svg",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/xml2/help/figures/lifecycle-stable.svg",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/xml2/help/figures/lifecycle-soft-deprecated.svg",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/xml2/help/figures/lifecycle-questioning.svg",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/xml2/help/figures/lifecycle-maturing.svg",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/xml2/help/figures/lifecycle-experimental.svg",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/xml2/help/figures/lifecycle-deprecated.svg",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/xml2/help/figures/lifecycle-defunct.svg",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/xml2/help/figures/lifecycle-archived.svg",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/xml2/NEWS.md",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/vroom/help/figures/logo.png",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/vroom/bench/README.md",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/vroom/NEWS.md",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/tzdb/NEWS.md",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/timechange/NEWS.md",
+    "Statistics for HDS/Assessment_1/renv/library/macos/R-4.5/aarch64-apple-darwin20/tidyverse/NEWS.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/rmarkdown/rmarkdown/templates/github_document/resources/default.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/rmarkdown/NEWS.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/fontawesome/NEWS.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/lib/bsw5/README.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/lib/bs-colorpicker/README.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/lib/bsw4/README.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/lib/bsw3/README.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/lib/bs5/README.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/lib/bs4/README.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/lib/bs3/README.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/lib/bs3/CHANGELOG.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/lib/bs-a11y-p/LICENSE.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/examples-shiny/build-a-box/about-value-boxes.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/examples-shiny/brand.yml/documentation.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/bslib/NEWS.md",
+    "Statistics for HDS/Assessment_1/renv/staging/1/sass/sass-theme/README.md"
   ]
 }

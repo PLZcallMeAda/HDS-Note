@@ -49,17 +49,28 @@ You are asked to produce a report summarising the data collected and to complete
 1. Please provide a summary of the data, with the aid of graphs and tables (5 marks)
     
 2. ==借助图表和表格，对数据进行概况总结（5 分）==
+![[4af792e2-c7b2-4045-a4c1-da19f381eb17.png]]
+summary(data)可以做成表格
+
+![[50eb1ed2-ba1f-4b34-8691-1530780e4ee7.png]]    
+也就是离散型的这个，可以用左1，右上1，右下1
+
+连续性图表：
+![[26898a34-7dea-4073-a6a8-23f723d243ec.png]]
+直方图一定放，象形图也要放，和密度可以放
+
+![[e31bfd4a-54f3-42fe-9751-4c415bd2a353.png]]
+左上左下（小提琴图）可以，右上能讲明白就画，右下三个变量，颜色代表两个factor，年龄越大斗剧里在右上角
+的糖尿病，xy对糖尿病发展有影响
 
 
-    
 3. Another screening programme took place last year in a different region and they found 14% of individuals had diabetes and the average BMI and age of those attending clinics were 28kg/m² and 55 years, respectively.
     
 4. ==去年在另一地区开展过一项筛查项目，结果显示 14% 的参与者患有糖尿病，参与诊所筛查人员的平均 BMI（体重指数）为 28 千克 / 平方米，平均年龄为 55 岁。==
-    
-
 ==They also found a significant relationship between smoking and diabetes.==
+==该项目还发现，吸烟与糖尿病之间存在显著关联。==（这个很重要，x和y，暴露和结局）结局变量就是糖尿病，
+![[08fa9a8f-0857-490b-94cd-2f96678de86d.png]]
 
-==该项目还发现，吸烟与糖尿病之间存在显著关联。==
 
 Investigate if your data support these results and provide possible explanations to your findings. (15 marks)
 
@@ -91,7 +102,7 @@ The dataset contains the following variables, as described here.
 
 **Additional Hints:**
 
-- Don’t forget to conduct an exploratory/descriptive analysis.
+- Don’t forget to conduct an exploratory/descriptive analysis.探索性分析就是连续性和离散型
 
 - Please showcase what you have learnt, but DO NOT simply perform every test you can. Carefully think about the assumptions and which tests are appropriate to perform when.
 
@@ -105,7 +116,7 @@ The dataset contains the following variables, as described here.
 - 请展示你所学到的内容，但不要简单地进行所有你能做的测试。仔细思考假设以及在何种情况下适合进行哪些测试。
 - 在分析数据时，你应该仔细思考任何假设和前提。
 - 你应该组织好报告的结构，以便清晰地呈现你所做的工作以及分析结果。
-- 注意：该数据集和场景完全是虚构的，因此不要求你在报告中提供背景动机/相关文献，但你应该考虑所呈现的虚构场景的结果。
+- 注意：该数据集和场景完全是虚构的，因此不要求你在报告中提供背景动机/相关文献，但你应该考虑所呈现的虚构场景的结果。（需要和去年的结果进行对比总结）
 
 **Mark scheme information**:
 
